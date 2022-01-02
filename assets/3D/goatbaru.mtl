@@ -1,0 +1,15 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl ef7efc50_dds1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.196078 0.211765
+Ks 0.330000 0.330000 0.330000
+
+newmtl Granite_Light_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.580392 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd goatbaru/Granite_Light_Gray.jpg
+
